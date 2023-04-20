@@ -1,0 +1,49 @@
+{
+    "login": {
+        "username": "2210100508",
+        "password": "2210100508",
+        "myCoursesNavBar": "Meus cursos",
+        "taskOption": "Tarefa"
+    },
+    "addTrf001": {
+        "taskName": "addTrf001"
+    },
+    "addTrf002": {
+        "taskName": "addTrf002",
+        "description": "addTrf002 Description"
+    },
+    "addTrf003": {
+        "taskName": "addTrf003",
+        "description": "addTrf003 Description",
+        "activity": "addTrf003 Activity",
+        "changeRole": "Mudar papel"
+    },
+    "addTrf005": {
+        "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    "addTrf006": {
+        "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    "addTrf007": {
+        "taskName": "addTrf007",
+        "year": "2000"
+    },
+    "addTrf008": {
+        "taskName": "addTrf008",
+        "year": "2000"
+    },
+    "addTrf009": {
+        "taskName": "addTrf009",
+        "year": "2000"
+    },
+
+    "addTrf010": {
+        "taskName": "addTrf010",
+        "year": "2000"
+    },
+    "addTrf011": {
+        "taskName": "addTrf011",
+        "changeRole": "Mudar papel",
+        "taskStatus": "Esta tarefa não requer o envio online"
+    }
+}

@@ -1,15 +1,14 @@
-Resolução de Problemas 2
+# Resolução de Problemas 2
+## Marco 2 - Teste Funcional
 
-Marco 2 - Teste Funcional
-
-1. OBJETIVOS
+### 1. OBJETIVOS
 Projetar, executar e analisar um projeto teste funcional em uma aplicação Web. Executar
 processos de teste de software para desenvolver os artefatos de testes para um software
 em ambiente real, mantendo esses artefatos gerados sob controle de versões. Fortalecer a
 ideia de trabalho colaborativo. Desenvolver aspectos comportamentais de responsabilidade
 e ética no ambiente de trabalho.
 
-2. PROJETO E ESCOPO
+### 2. PROJETO E ESCOPO
 Os Ambientes Virtuais de Aprendizagem (AVAs) permitem criar um canal de comunicação
 virtual entre estudantes e professores de uma determinada disciplina. O Moodle (Modular
 Object-Oriented Dynamic Learning Environment - Ambiente de Aprendizagem Dinâmico
@@ -28,12 +27,12 @@ de testes de software. Assim, você e sua equipe foram contratados para realizar
 terceirização do teste funcional do AVA Moodle, a qual será usada por docentes e
 estudantes de uma instituição chamada INSIGHTS Lab.
 
-3. FORMAÇÃO DOS TIMES
+### 3. FORMAÇÃO DOS TIMES
 Os grupos foram organizados aleatoriamente de acordo com a ferramenta, em sala de aula
 e na presença de todos os estudantes. O prazo para essa definição foi terça-feira,
 08/11/2022.
 
-4. OPERACIONALIZAÇÃO
+### 4. OPERACIONALIZAÇÃO
 Com o objetivo de garantir a alta qualidade de seus produtos de software, o grupo
 educacional INSIGHTS Lab nos contratou para avaliar a qualidade do produto AVA
 MOODLE, a fim de identificar os erros e limitações da ferramenta educacional.
@@ -49,6 +48,7 @@ dos professores quanto dos discentes, exceto quando for avisado pelos professore
 Como premissa, todos os projetos deverão usar Selenium Web Driver a fim de gerar os
 scripts de testes funcionais na ferramenta Web. Além disso, os dados de entrada deverão
 ser, dinamicamente, parametrizados, podendo usar desde JSON, CSV ou XML.
+
 Uma atividade é um nome geral para um grupo de funcionalidades em um curso Moodle.
 Geralmente uma atividade é algo que o estudante irá fazer que interage com outros
 estudantes e/ou com o professor. Existem tipos diferentes de atividades no Moodle padrão
@@ -56,94 +56,77 @@ que podem ser encontradas quando o modo de edição está habilitado e clicamos 
 "Adicionar atividade ou recurso". Para se ter acesso a tudo isso, você devem primeiro
 acessar o sistema, logo os primeiros testes serão nas seguintes funcionalidades:
 
- Login (Efetuar login no curso);
-
- Criar descrições dos tópicos e customizar o tópico de acordo com o curso
+<ul>
+<li> Login (Efetuar login no curso);
+<li> Criar descrições dos tópicos e customizar o tópico de acordo com o curso
 (perspectiva docente) e criar rótulos;
-
- Adicionar um arquivo em cada tópico criado (perspectiva docente);
-
- Adicionar uma URL em cada tópico criado sobre o assunto do curso (perspectiva
+<li> Adicionar um arquivo em cada tópico criado (perspectiva docente);
+<li> Adicionar uma URL em cada tópico criado sobre o assunto do curso (perspectiva
 docente);
-
- Adicionar uma pasta com vários arquivos em cada tópico criado sobre o assunto do
+<li> Adicionar uma pasta com vários arquivos em cada tópico criado sobre o assunto do
 curso (perspectiva docente).
-
+</ul>
 
 Após realizar os testes iniciais, vocês deverão testar requisitos/atividades a seguinte lista de requisitos:
 
- Tarefa: Permite que professores dêem notas e comentários em arquivos ou textos
+<ul>
+<li> Tarefa: Permite que professores dêem notas e comentários em arquivos ou textos
 enviados e tarefas realizadas online ou offline;
-
- Chat: Permite que os participantes tenham conversações síncronas em tempo real;
-
- Mensagens: Permite que os participantes enviem mensagens assíncronas entre si;
-
- Pesquisa: Para criar e conduzir pesquisas para coletar opinião, satisfação,
+<li> Chat: Permite que os participantes tenham conversações síncronas em tempo real;
+<li> Mensagens: Permite que os participantes enviem mensagens assíncronas entre si;
+<li> Pesquisa: Para criar e conduzir pesquisas para coletar opinião, satisfação,
 impressão, feedback etc;
-
- Fórum: Permite que os participantes tenham conversas assíncronas;
-
- Wiki: Uma coleção de páginas web que qualquer um pode criar, editar e acompanhar
+<li> Fórum: Permite que os participantes tenham conversas assíncronas;
+<li> Wiki: Uma coleção de páginas web que qualquer um pode criar, editar e acompanhar
 o histórico;
-
- Glossário: Permite que os participantes mantenham uma lista de definições, como
+<li> Glossário: Permite que os participantes mantenham uma lista de definições, como
 um dicionário.
+</ul>
 
-
-
-5. FORMATO DO TRABALHO
+### 5. FORMATO DO TRABALHO
 A entrega do trabalho será formada por:
+<ul>
+ <li>Projeto de teste com o código-fontes dos testes funcionais desenvolvidos;
+    <ul>
+    <li>Criar uma pasta chamada “Marco2” no repositório de cada grupo para submissão dos arquivos deste projeto.
+    </ul>
+ <li>Relatório técnico com a especificação e resultados dos testes funcionais realizados.
+    <ul>
+    <li>Formato: Template SBC.
+    <li>O relatório técnico pode conter as seguintes etapas (recomendado):
+    </ul>
+        <ul>
+        <li>Introdução
+        <li>Contexto/Ambiente
+        <li>Planejamento do Teste
+        <li>Projeto dos Casos de Teste
+        <li>Execução do Teste
+        <li>Análise dos Resultados
+        <li>Conclusão e lições aprendidas
+        <li>Referências
+        </ul>
+<li>Apresentação do Marco 02.
+ </ul>
 
- Projeto de teste com o código-fontes dos testes funcionais desenvolvidos;
-    
-    Criar uma pasta chamada “Marco2” no repositório de cada grupo para submissão dos arquivos deste projeto.
-    
-
- 
-Relatório técnico com a especificação e resultados dos testes funcionais realizados.
-    
-    Formato: Template SBC.
-    
-O relatório técnico pode conter as seguintes etapas (recomendado):
-    
-
-        
-        Introdução
-        
-Contexto/Ambiente
-        
-Planejamento do Teste
-        
-Projeto dos Casos de Teste
-        
-Execução do Teste
-        
-Análise dos Resultados
-        
-Conclusão e lições aprendidas
-        
-Referências
-        
-
-
-Apresentação do Marco 02.
- 
-
-
-6. ENTREGA
-O relatório técnico final deverá ser publicado no Moodle via “Tarefa: Submissão Marco II:
-Relatório do Teste Funcional”. Apenas uma submissão do relatório técnico por grupo. O
-formato do relatório técnico deve ser, exclusivamente, em .PDF.
+### 6. ENTREGA
+O relatório técnico final deverá ser publicado no Moodle via <b>“Tarefa: Submissão Marco II:
+Relatório do Teste Funcional”.</b> Apenas uma submissão do relatório técnico por grupo. O
+formato do relatório técnico deve ser, exclusivamente, em <b>.PDF.</b>
 O trabalho deverá ser constantemente atualizado na Wiki do projeto no repositório GitLab.
 O projeto com os códigos-fontes do projeto de teste deve ser submetido no repositório do
 ambiente GitLab da Unipampa para o grupo formado organizado em uma pasta chamada
-Marco2. Além disso, vale ressaltar que todos os erros identificados devem ser reportados na ferramenta Mantis e o gerenciamento do projeto de teste deve ser
-realizado na ferramenta Testlink.
+Marco2. Além disso, vale ressaltar que <b>todos os erros identificados devem ser reportados na ferramenta Mantis e o gerenciamento do projeto de teste deve ser
+realizado na ferramenta Testlink.</b>
+
 Além da atualização do documento de teste, cada grupo deverá preparar uma apresentação
 para expor suas ideias a respeito do tema escolhido, resumindo os principais pontos do
 trabalho desenvolvido. Todos os integrantes do grupo devem participar da apresentação. O
 tempo máximo da apresentação é 15 minutos (10 min explanação + 5 min de perguntas).
-Observação importante: Para cada dia de atraso na entrega do trabalho, será descontado
+
+<b>Observação importante:</b> Para cada dia de atraso na entrega do trabalho, será descontado
 um ponto (-1,0) por dia de atraso, a contar do primeiro minuto após o prazo estipulado pelos
 docentes.
+
+<b>Data da entrega: 09/01/2022</b>
+
+<b>Data das apresentações: 10/01/2022</b>

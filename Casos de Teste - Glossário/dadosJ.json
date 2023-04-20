@@ -1,0 +1,21 @@
+{
+    "matricula": "2210102362",
+
+    "campoNome": "Glossário",
+
+    "campoNomeG": "Lista de definições",
+
+    "campoDescricao": "Um Glossário é semelhante a um dicionário, contendo normalmente descrições de palavras não tão conhecidas. No Moodle, qualquer aluno ou professor pode inserir entradas quando essa função está ativa.",
+   
+    "numeroMaximo": "10",
+
+    "numeroItens": "0",
+
+    "notaAprovacao": "6",
+
+    "numeroIdentificacao": "1.3",
+
+    "tags": "Lista",
+
+    "suaMatricula": "Sua matrícula"
+}

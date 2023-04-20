@@ -1,0 +1,27 @@
+{
+    "login": {
+        "username": "2210100508",
+        "password": "2210100508",
+        "myCoursesNavBar": "Meus cursos",
+        "researchOption": "Pesquisa"
+    },
+    "addPesquisa001": {
+    	"researchName": "addPesquisa001"
+    },
+    "addPesquisa003": {
+    	"description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    "addPesquisa004": {
+    	"researchName": "addPesquisa004",
+    	"timeOpenYear": "1900"
+    },
+    "addPesquisa005": {
+    	"researchName": "addPesquisa005",
+    	"timeCloseYear": "1900"
+    },
+    "addPesquisa006": {
+    	"researchName": "addPesquisa004",
+    	"timeOpenYear": "2023",
+    	"timeCloseYear": "2020"
+    }
+}

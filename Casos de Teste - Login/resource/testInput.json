@@ -1,0 +1,91 @@
+{
+    "lgn001": {
+        "username": "2210100508",
+        "password": "2210100508",
+        "urlExpected": "https://gmlunardi.pro.br/moodlerp2/my/"  
+    },
+
+    "lgn002": {
+        "username": "2210100508",
+        "password": "2210100509",
+        "expectedError": "Nome de usuário ou senha errados. Por favor tente outra vez."
+    },
+
+    "lgn003": {
+        "username": "2210100509",
+        "password": "2210100508",
+        "expectedError": "Nome de usuário ou senha errados. Por favor tente outra vez."
+    },
+
+    "lgn004": {
+        "username": "2210100509",
+        "password": "2210100509",
+        "expectedError": "Nome de usuário ou senha errados. Por favor tente outra vez."
+    },
+
+    "lgn005": {
+        "username": "2210100508",
+        "expectedError": "Nome de usuário ou senha errados. Por favor tente outra vez."
+    },
+    
+    "lgn006": {
+        "username": "2210100509",
+        "expectedError": "Nome de usuário ou senha errados. Por favor tente outra vez."
+    },
+
+    "lgn007": {
+        "password": "2210100508",
+        "expectedError": "Nome de usuário ou senha errados. Por favor tente outra vez."
+    },
+
+    "lgn008": {
+        "password": "2210100509",
+        "expectedError": "Nome de usuário ou senha errados. Por favor tente outra vez."
+    },
+
+    "lgn009": {
+        "expectedError": "Nome de usuário ou senha errados. Por favor tente outra vez."
+    },
+
+    "lgn010": {
+        "username": "2210100508",
+        "password": "2210100508",
+        "urlExpected": "https://gmlunardi.pro.br/moodlerp2/login/index.php"
+    },
+
+    "lgn011": {
+        "username": "2210100508",
+        "password": "2210100508",
+        "urlExpected": "https://gmlunardi.pro.br/moodlerp2/my/"
+    },
+
+    "lgn012": {
+        "password": "2210100508"
+    },
+
+    "lgn013": {
+        "username": "2210100508"
+    },
+
+    "lgn015": {
+        "username": "77777777777777777777777777777777777777777"
+    },
+
+    "lgn016": {
+        "email": "_marco2/_.com@br.gmail"
+    },
+
+    "lgn017": {
+        "username": "77777777777777777777777777777777777777777",
+        "email": "_marco2/_.com@br.gmail"
+    },
+
+    "lgn018": {
+        "username": "2210100508",
+        "email": "luantavares.teste@gmail.com"
+    },
+
+    "lgn020": {
+        "message": "visitante"
+    }
+}
